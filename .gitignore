@@ -11,3 +11,10 @@ Saved/
 *.sdf
 
 FileOpenOrder/
+
+# Unreal World Partition
+Content/__ExternalActors__/
+Content/__ExternalObjects__/
+
+# Optional
+DerivedDataCache/
